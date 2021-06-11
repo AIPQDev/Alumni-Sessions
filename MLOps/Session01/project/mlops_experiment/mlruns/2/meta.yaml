@@ -1,0 +1,4 @@
+artifact_location: file:///Users/lavi/Documents/Consulting%20Work/Upgrad/Alumni%20Sessions/MLOps/Session01/project/mlops_experiment/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: churn_02

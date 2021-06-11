@@ -1,0 +1,30 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.7.10
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: 5bd41aec994a48a78a028ec78b23a595
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"name": "customerID", "type": "string"}, {"name": "gender", "type": "string"},
+    {"name": "SeniorCitizen", "type": "long"}, {"name": "Partner", "type": "string"},
+    {"name": "Dependents", "type": "string"}, {"name": "tenure", "type": "double"},
+    {"name": "PhoneService", "type": "string"}, {"name": "MultipleLines", "type":
+    "string"}, {"name": "InternetService", "type": "string"}, {"name": "OnlineSecurity",
+    "type": "string"}, {"name": "OnlineBackup", "type": "string"}, {"name": "DeviceProtection",
+    "type": "string"}, {"name": "TechSupport", "type": "string"}, {"name": "StreamingTV",
+    "type": "string"}, {"name": "StreamingMovies", "type": "string"}, {"name": "Contract",
+    "type": "string"}, {"name": "PaperlessBilling", "type": "string"}, {"name": "PaymentMethod",
+    "type": "string"}, {"name": "MonthlyCharges", "type": "double"}, {"name": "TotalCharges",
+    "type": "double"}]'
+  outputs: null
+utc_time_created: '2021-06-11 21:55:07.505396'

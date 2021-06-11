@@ -1,0 +1,2 @@
+StratifiedKFold(n_splits=10,
+        random_state=RandomState(MT19937) at 0x7F87654D98D0, shuffle=False)
