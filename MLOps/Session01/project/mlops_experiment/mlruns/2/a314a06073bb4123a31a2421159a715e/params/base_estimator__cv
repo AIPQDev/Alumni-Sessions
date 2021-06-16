@@ -1,2 +1,0 @@
-StratifiedKFold(n_splits=10,
-        random_state=RandomState(MT19937) at 0x7FBB8D0ED270, shuffle=False)
