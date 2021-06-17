@@ -1,0 +1,8 @@
+Credit & Contact  - https://www.linkedin.com/in/tarang-gupta-0965b7104/
+
+Enivronment and Requirement : https://github.com/taranggpt6/Cryptocurrency-Prediction_MSc_LJMU/tree/main/
+
+For windows Microsoft Visual C++ build tools are required and also c++ compiler , install mingw - 
+
+conda install libpython m2w64-toolchain -c msys2
+ 
