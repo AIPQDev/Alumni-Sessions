@@ -6,3 +6,5 @@ For windows Microsoft Visual C++ build tools are required and also c++ compiler 
 
 conda install libpython m2w64-toolchain -c msys2
  
+or you can follow this issue here - https://github.com/facebook/prophet/issues/1939
+
