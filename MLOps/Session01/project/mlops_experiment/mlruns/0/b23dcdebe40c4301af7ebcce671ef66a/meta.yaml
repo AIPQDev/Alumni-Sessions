@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lavi/Documents/Consulting%20Work/Upgrad/Alumni%20Sessions/MLOps/Session01/project/mlops_experiment/mlruns/0/b23dcdebe40c4301af7ebcce671ef66a/artifacts
+end_time: 1624029896761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: b23dcdebe40c4301af7ebcce671ef66a
+run_uuid: b23dcdebe40c4301af7ebcce671ef66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1624029896052
+status: 3
+tags: []
+user_id: lavi
